@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c53f6aab-e668-48d0-9ea1-b292e1858274" name="Changes" comment="Reduce notebook size by removing excess cells and outputs.&#10;&#10;The notebook had redundant code, outputs, and metadata, inflating its size unnecessarily. Removed superfluous cells, streamlined the code, and eliminated saved outputs to improve maintainability and performance. This simplifies the code and makes future updates easier.">
+    <list default="true" id="c53f6aab-e668-48d0-9ea1-b292e1858274" name="Changes" comment="Simplify notebook by removing unnecessary code and outputs.&#10;&#10;Removed excess cells, outputs, and metadata to streamline the notebook. This reduces size, improves readability, and enhances maintainability for future modifications.">
+      <change afterPath="$PROJECT_DIR$/Exploration_01.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-Youtube_API.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01-Youtube_API.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,10 @@
       <workItem from="1743962751125" duration="1007000" />
       <workItem from="1743965657293" duration="50000" />
       <workItem from="1744001113769" duration="90000" />
-      <workItem from="1744010339484" duration="7204000" />
+      <workItem from="1744010339484" duration="7264000" />
+      <workItem from="1744020539742" duration="1213000" />
+      <workItem from="1744021995743" duration="1347000" />
+      <workItem from="1744023589045" duration="446000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial project setup with README, requirements, and notebook&#10;&#10;Include a sample Jupyter Notebook, README for project overview, and requirements.txt for dependencies. Also added PyCharm project configuration files to enable proper IDE support and version control setup.">
       <option name="closed" value="true" />
@@ -172,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743963637231</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Simplify notebook by removing unnecessary code and outputs.&#10;&#10;Removed excess cells, outputs, and metadata to streamline the notebook. This reduces size, improves readability, and enhances maintainability for future modifications.">
+      <option name="closed" value="true" />
+      <created>1744018648731</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744018648731</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +201,7 @@
     <MESSAGE value="Remove unused and outdated YouTube API notebook code&#10;&#10;The notebook contained extensive unused and outdated code sections. These were replaced with a streamlined and updated version for better efficiency and readability. This cleanup reduces clutter and ensures future maintainability." />
     <MESSAGE value="Remove YouTube API code and outputs from notebook&#10;&#10;Deleted a large block of code and outputs related to YouTube API usage, including video search, comment fetching, and data saving logic. This simplifies the notebook and likely indicates a shift in focus or a migration of the functionality elsewhere." />
     <MESSAGE value="Reduce notebook size by removing excess cells and outputs.&#10;&#10;The notebook had redundant code, outputs, and metadata, inflating its size unnecessarily. Removed superfluous cells, streamlined the code, and eliminated saved outputs to improve maintainability and performance. This simplifies the code and makes future updates easier." />
-    <option name="LAST_COMMIT_MESSAGE" value="Reduce notebook size by removing excess cells and outputs.&#10;&#10;The notebook had redundant code, outputs, and metadata, inflating its size unnecessarily. Removed superfluous cells, streamlined the code, and eliminated saved outputs to improve maintainability and performance. This simplifies the code and makes future updates easier." />
+    <MESSAGE value="Simplify notebook by removing unnecessary code and outputs.&#10;&#10;Removed excess cells, outputs, and metadata to streamline the notebook. This reduces size, improves readability, and enhances maintainability for future modifications." />
+    <option name="LAST_COMMIT_MESSAGE" value="Simplify notebook by removing unnecessary code and outputs.&#10;&#10;Removed excess cells, outputs, and metadata to streamline the notebook. This reduces size, improves readability, and enhances maintainability for future modifications." />
   </component>
 </project>
