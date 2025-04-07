@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c53f6aab-e668-48d0-9ea1-b292e1858274" name="Changes" comment="Remove all code and outputs from 01-Youtube_API.ipynb&#10;&#10;Cleared the notebook content to start with a clean slate. This includes removing all cells and generated outputs for a lighter and more maintainable base file.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="c53f6aab-e668-48d0-9ea1-b292e1858274" name="Changes" comment="Reduce notebook size by removing excess cells and outputs.&#10;&#10;The notebook had redundant code, outputs, and metadata, inflating its size unnecessarily. Removed superfluous cells, streamlined the code, and eliminated saved outputs to improve maintainability and performance. This simplifies the code and makes future updates easier.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/01-Youtube_API.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01-Youtube_API.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,10 @@
       <workItem from="1743955011619" duration="442000" />
       <workItem from="1743955532946" duration="6080000" />
       <workItem from="1743962017366" duration="216000" />
-      <workItem from="1743962751125" duration="516000" />
+      <workItem from="1743962751125" duration="1007000" />
+      <workItem from="1743965657293" duration="50000" />
+      <workItem from="1744001113769" duration="90000" />
+      <workItem from="1744010339484" duration="7204000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial project setup with README, requirements, and notebook&#10;&#10;Include a sample Jupyter Notebook, README for project overview, and requirements.txt for dependencies. Also added PyCharm project configuration files to enable proper IDE support and version control setup.">
       <option name="closed" value="true" />
@@ -155,7 +156,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743962170840</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Remove YouTube API code and outputs from notebook&#10;&#10;Deleted a large block of code and outputs related to YouTube API usage, including video search, comment fetching, and data saving logic. This simplifies the notebook and likely indicates a shift in focus or a migration of the functionality elsewhere.">
+      <option name="closed" value="true" />
+      <created>1743963319495</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743963319495</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Reduce notebook size by removing excess cells and outputs.&#10;&#10;The notebook had redundant code, outputs, and metadata, inflating its size unnecessarily. Removed superfluous cells, streamlined the code, and eliminated saved outputs to improve maintainability and performance. This simplifies the code and makes future updates easier.">
+      <option name="closed" value="true" />
+      <created>1743963637231</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743963637231</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +187,9 @@
     <MESSAGE value="Refactor: Remove unused YouTube API script&#10;&#10;The YouTube API script was removed to clean up unused, outdated code. This improves codebase maintainability by eliminating unnecessary files." />
     <MESSAGE value="Remove all code and outputs from 01-Youtube_API.ipynb&#10;&#10;Cleared the notebook content to start with a clean slate. This includes removing all cells and generated outputs for a lighter and more maintainable base file." />
     <MESSAGE value="Remove deprecated code and clean YouTube API notebook.&#10;&#10;The notebook was significantly reduced by removing redundant or unused cells and functions. This refactor simplifies the codebase and prepares it for streamlined, future-focused development." />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove deprecated code and clean YouTube API notebook.&#10;&#10;The notebook was significantly reduced by removing redundant or unused cells and functions. This refactor simplifies the codebase and prepares it for streamlined, future-focused development." />
+    <MESSAGE value="Remove unused and outdated YouTube API notebook code&#10;&#10;The notebook contained extensive unused and outdated code sections. These were replaced with a streamlined and updated version for better efficiency and readability. This cleanup reduces clutter and ensures future maintainability." />
+    <MESSAGE value="Remove YouTube API code and outputs from notebook&#10;&#10;Deleted a large block of code and outputs related to YouTube API usage, including video search, comment fetching, and data saving logic. This simplifies the notebook and likely indicates a shift in focus or a migration of the functionality elsewhere." />
+    <MESSAGE value="Reduce notebook size by removing excess cells and outputs.&#10;&#10;The notebook had redundant code, outputs, and metadata, inflating its size unnecessarily. Removed superfluous cells, streamlined the code, and eliminated saved outputs to improve maintainability and performance. This simplifies the code and makes future updates easier." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reduce notebook size by removing excess cells and outputs.&#10;&#10;The notebook had redundant code, outputs, and metadata, inflating its size unnecessarily. Removed superfluous cells, streamlined the code, and eliminated saved outputs to improve maintainability and performance. This simplifies the code and makes future updates easier." />
   </component>
 </project>
