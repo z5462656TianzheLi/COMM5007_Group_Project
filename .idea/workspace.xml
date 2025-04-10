@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c53f6aab-e668-48d0-9ea1-b292e1858274" name="Changes" comment="Simplify notebook by removing unnecessary code and outputs.&#10;&#10;Removed excess cells, outputs, and metadata to streamline the notebook. This reduces size, improves readability, and enhances maintainability for future modifications.">
-      <change afterPath="$PROJECT_DIR$/Exploration_01.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,12 +39,12 @@
     &quot;assignee&quot;: &quot;z5462656TianzheLi&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/z5462656TianzheLi/COMM5007_Group_Project.git&quot;,
-    &quot;accountId&quot;: &quot;ca7a2bc2-dac5-4fd7-be5a-28f2f816bb19&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/z5462656TianzheLi/COMM5007_Group_Project.git",
+    "accountId": "bdd8ba7c-fad4-456b-91f0-4a5d97444194"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -102,6 +101,7 @@
       <workItem from="1744020539742" duration="1213000" />
       <workItem from="1744021995743" duration="1347000" />
       <workItem from="1744023589045" duration="446000" />
+      <workItem from="1744304518667" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial project setup with README, requirements, and notebook&#10;&#10;Include a sample Jupyter Notebook, README for project overview, and requirements.txt for dependencies. Also added PyCharm project configuration files to enable proper IDE support and version control setup.">
       <option name="closed" value="true" />
